@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #f3f3f3;
+}
+
+.whitebox{
+border-bottom-right-radius: 30%;
+}
+
+.line{
+height: 0.015vw;
+
+}
